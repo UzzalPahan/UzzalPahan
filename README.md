@@ -1,8 +1,8 @@
 <p align="center">
-<img alt="Coding" width="1000" height="400" src="https://raw.githubusercontent.com/UzzalPahan/UzzalPahan/main/Hi.png">
+<img alt="Coding" width="1000" height="400" src="https://raw.githubusercontent.com/UzzalPahan/UzzalPahan/master/Hi%20(1).png">
 </p>
 
-<h1 align="center">Hi 👋, I'm Uzzal Pahan</h1>
+<!--<h1 align="center">Hi 👋, I'm Uzzal Pahan</h1>-->
 <h3 align="center">I'm a MERN Stack Web Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **MERN Stack Web Development**
